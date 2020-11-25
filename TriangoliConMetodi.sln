@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramTriangoli", "ProgramTriangoli\ProgramTriangoli.csproj", "{32850DB3-E8A5-4ED3-AEA3-421E39EF3205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassTriangoli", "ClassTriangoli\ClassTriangoli.csproj", "{50641B44-47C8-4E94-9013-F5882EDC80AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32850DB3-E8A5-4ED3-AEA3-421E39EF3205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32850DB3-E8A5-4ED3-AEA3-421E39EF3205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32850DB3-E8A5-4ED3-AEA3-421E39EF3205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32850DB3-E8A5-4ED3-AEA3-421E39EF3205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50641B44-47C8-4E94-9013-F5882EDC80AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50641B44-47C8-4E94-9013-F5882EDC80AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50641B44-47C8-4E94-9013-F5882EDC80AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50641B44-47C8-4E94-9013-F5882EDC80AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D125BED7-0861-46B4-B415-DA5B361E3E6E}
+	EndGlobalSection
+EndGlobal
